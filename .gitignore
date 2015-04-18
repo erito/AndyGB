@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -6,3 +7,6 @@
 .DS_Store
 /build
 *.iml
+=======
+/build
+>>>>>>> ede83f143ca2fea45259247c4d51f808dea24cc4
